@@ -1,0 +1,3 @@
+[submodule "api.inssa.club_clubhouse"]
+	path = api.inssa.club_clubhouse
+	url = https://github.com/linkkky/api.inssa.club_clubhouse
