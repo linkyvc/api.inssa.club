@@ -1,3 +1,6 @@
 [submodule "api.inssa.club_clubhouse"]
 	path = api.inssa.club_clubhouse
 	url = https://github.com/linkkky/api.inssa.club_clubhouse
+[submodule "api.inssa.club_waitlist"]
+	path = api.inssa.club_waitlist
+	url = https://github.com/linkkky/api.inssa.club_waitlist
